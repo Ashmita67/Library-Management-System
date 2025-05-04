@@ -1,23 +1,28 @@
-# Library Management System
+## 📚 **Library Management System (LMS)**
 
-A Python-based library management system with a Tkinter GUI and MySQL database for managing books, members, and transactions in a library.
+A **Library Management System** built using **Python**, **Tkinter (GUI)**, and **MySQL** for managing library operations through an intuitive desktop application.
 
-## Features
-- Add and update book records.
-- Add and update member details.
-- Issue and return books.
-- Search books, members, and transactions.
-- Display library records and status.
+### ✨ **Features:**
 
-## Requirements
-- Python 3.x
-- MySQL database with tables for books, members, and transactions.
+* Add, update, and delete **book records**
+* Manage **member details**
+* **Issue** and **return** books with due date tracking
+* **Search** functionality for books and members
+* **Status** menu for viewing issued/available books
+* User-friendly **Tkinter GUI** with navigation sidebar
+* Backend powered by **MySQL database**
 
-## Installation
+### 🏗️ **Technologies Used:**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashmita67/Library-Management-System.git
-2. To install all dependencies for this project, run the following command:
-   ```bash
-   pip install -r requirements.txt
+* Python
+* Tkinter
+* MySQL (via XAMPP)
+* MySQL Connector
+
+### 🚀 **Setup Instructions:**
+
+1. Clone the repo
+2. Run `pip install -r requirements.txt` to install dependencies
+3. Ensure **XAMPP (Apache & MySQL)** is running
+4. Import the database schema (if applicable)
+5. Run `main.py` (or your script) to start the application
