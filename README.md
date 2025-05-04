@@ -1,6 +1,6 @@
 # Library Management System
 
-A Python-based library management system with a Tkinter GUI for managing books, members, and transactions in a library.
+A Python-based library management system with a Tkinter GUI and MySQL database for managing books, members, and transactions in a library.
 
 ## Features
 - Add and update book records.
